@@ -8,7 +8,9 @@ categories: jekyll update
 subpage 
 {{ site.baseurl }}{% link _posts/2021-08-16-subpage.ext %}
 
-[click me to go subpage]({% link _posts/2021-08-16-subpage.ext %})
+[download a page]({% link _posts/2021-08-16-subpage.ext %})
+
+[go to a page]({% link _posts/2021-08-16-subpage-html.md %})
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
